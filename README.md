@@ -1,7 +1,7 @@
 ## Here are tools i used to automate Facebook registeration 
 ### language used : javascript
 1.pupeteer liberary
-to install it 
+#### installation 
 - create node file 
 - open CMD 
 - run npm install pupeteer 
