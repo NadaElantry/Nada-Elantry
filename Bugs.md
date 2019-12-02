@@ -24,7 +24,7 @@ Iphone 6s+ , huawei , Samsung galaxy A70
 
 **Attachements** 
 
-./1.jpg
+![alt text](https://github.com/NadaElantry/Nada-Elantry/blob/master/Bug%20Attachement/1.jpeg)
 
 **Network**
 
